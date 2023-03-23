@@ -101,7 +101,7 @@ module.exports = async function ({ config, bot, formats }) {
     SYSTEM_STAFF_COLOR: "systemStaffColor",
 
     // Miscellaneous Settings
-    CUSTOM_SYSTEM_NAME: "systemName",
+    CUSTOM_SYSTEM_NAME: "r/Google Moderation Team",
   });
 
   // Init with defaults
